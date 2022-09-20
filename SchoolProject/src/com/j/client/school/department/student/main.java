@@ -5,7 +5,14 @@ public class main {
 	public static void main(String[] args) {
 		
 		System.out.println("welcome to school");
+
 		Student.getName();
+
+		
+		DemoShri demo = new DemoShri();
+		demo.test();
+
+
 	}
 
 }
